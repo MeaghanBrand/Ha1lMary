@@ -18,6 +18,6 @@
 📚 Always learning — currently working on a portfolio that combines cybersecurity and software development.
 
 📫 Reach out or collaborate:
-- Email: [your email]
-- LinkedIn: [your LinkedIn]
-- Portfolio: [your GitHub Pages link]
+- Email: meaghanbrand02@gmail.com
+- LinkedIn: 
+- Portfolio:
